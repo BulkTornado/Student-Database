@@ -9,7 +9,7 @@ Currently, two version have been built, with more versions to come.
 
 - To view all of the versions, head to the release page(on this right side of the screen) or click the following link: [**Release Page**](https://github.com/BulkTornado/Student-Database/releases)
 - Fundamentally, each version is completely different(I hope so). As such, with each release, there **WILL** be a note detailing the changes made.
-- **REMEMBER**, each version [might] have different dependencies. This means that for each version, the data structure and functionality is different(more on it in the upcoming section). As such, read the note and see what are the **_required_** that you **NEED** to download and **_optional_** dependencies which you can skip if you want, however it is highly recommended that you download everything for optimal experience(I guess :>).
+- **REMEMBER**, each version [might] have different dependencies. This means that for each version, the data structure and functionality is different(more on it in the upcoming section). As such, read the note and see what are the **_required_** dependencies that you **NEED** to download and **_optional_** dependencies which you can skip if you want, however it is highly recommended that you download everything for optimal experience(I guess :>).
 - Once you have understood everything, you can download any version of the program which is suitable for your use.
 
 ## Data structure
