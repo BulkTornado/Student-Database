@@ -80,4 +80,4 @@ Here's a example:
 
 - I would like to change the database yet again in version 3.0, to support class wise segregation.
 - This is a major hiccup right now cuz only roll numbers are used to search for a student, and the class and section in the database is used only to make the output nicer :)
-- In version 4.0, I would like to introduce the key as a tuple of (School Code(CBSE/ICSE/any other), Board(CBSE/ICSE/any other), School Name), and work from there. Let's see how I will be able to implement that :)
+- In version 4.0, I would like to introduce the key as a tuple containing the Board(CBSE/ICSE/any other), School Code(CBSE/ICSE/any other), and School Name, and work from there. Let's see how I will be able to implement that :)
