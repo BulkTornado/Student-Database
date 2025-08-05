@@ -1,0 +1,38 @@
+{
+    "1": {
+        "Name": "XYZ",
+        "Class": "12",
+        "Section": "A",
+        "Marks": {
+            "Physics": 37,
+            "Chemistry": 38,
+            "Maths": 31,
+            "Comp Sci": 28,
+            "English": 29
+        }
+    },
+    "2": {
+        "Name": "ABC",
+        "Class": "12",
+        "Section": "A",
+        "Marks": {
+            "Physics": 30,
+            "Chemistry": 30,
+            "Maths": 30,
+            "Comp Sci": 30,
+            "English": 30
+        }
+    },
+    "3": {
+        "Name": "PQR",
+        "Class": "12",
+        "Section": "A",
+        "Marks": {
+            "Physics": 35,
+            "Chemistry": 35,
+            "Maths": 35,
+            "Comp Sci": 35,
+            "English": 35
+        }
+    }
+}
