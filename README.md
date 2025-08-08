@@ -36,6 +36,9 @@ Here's a example:
 }
 ```
 #### Version 2.0 data structure
+- Important note, here it is assumed that database is used only for a specific class and section. As such, no class and section data is present in the database.
+- This was a over-sight by me while using only roll number as the key for indexing and everything.
+- Kindly stay tuned for the release of v3.0, in which I will implement a better indexing method to allow multiple class and section.
 ```json
 {
     "1": {
@@ -77,5 +80,6 @@ Here's a example:
 ## Future Ideas
 
 - I would like to change the database yet again in version 3.0, to support class wise segregation.
-- This is a major hiccup right now cuz only roll numbers are used to search for a student, and the class and section in the database is used only to make the output nicer :)
-- In version 4.0, I would like to introduce the key as a tuple containing the Board(CBSE/ICSE/any other), School Code(CBSE/ICSE/any other), and School Name, and work from there. Let's see how I will be able to implement that :)
+- This is a major hiccup right now cuz only roll numbers are used to search for a student.
+- In version v4.0, I would like to make it so that data from multiple schools from different education boards can be stored in the database. One way could be to implement the key structure to support the Board(CBSE/ICSE/any other), School Code(CBSE/ICSE/any other), and School Name, and work from there. Let's see how I will be able to implement that :)
+- No matter what, from v5.0, I would like to move on from CLI and start using and implementing GUI, for better ease of use to the user.
