@@ -40,8 +40,6 @@ Here's a example:
 {
     "1": {
         "Name": "XYZ",
-        "Class": "12",
-        "Section": "A",
         "Marks": {
             "Periodic Test 01": {
                 "Physics": 37,
