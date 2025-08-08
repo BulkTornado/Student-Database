@@ -2,13 +2,13 @@ import json
 
 def EnterDetails():
     try:
-        with open(r"StudentDetails_v1_0.json", "r") as Stud_Details_Json:
+        with open(r"StudentDatabase_v1_0.json", "r") as Stud_Details_Json:
             Stud_Details_Dict = json.load(Stud_Details_Json)
         num = int(input("How many students: "))
         if num <= 0:
             print("Next time, enter a value more than 0")
         else:
-            with open(r"StudentDetails_v1_0.json", "w") as Stud_Details_Json:
+            with open(r"StudentDatabase_v1_0.json", "w") as Stud_Details_Json:
                 for i in range(num):
                     try:
                         print(f"-------------------------------\nIteration {i+1}")
@@ -45,7 +45,7 @@ def EnterDetails():
 
 def SeeDetails():
     try:
-        with open(r"StudentDetails_v1_0.json", "r") as Stud_Details_Json:
+        with open(r"StudentDatabase_v1_0.json", "r") as Stud_Details_Json:
             Stud_Details_Dict = json.load(Stud_Details_Json)
         # Quickly checking if data is empty
         if len(Stud_Details_Dict) == 0:
@@ -85,7 +85,7 @@ def SeeDetails():
                 
 def ClearDetails():
     try:
-        with open(r"StudentDetails_v1_0.json", "w") as Stud_Details_Json:
+        with open(r"StudentDatabase_v1_0.json", "w") as Stud_Details_Json:
             json.dump({}, Stud_Details_Json, indent = 4)
         print(f"Data cleared")
     except FileNotFoundError:
