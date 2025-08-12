@@ -196,17 +196,5 @@
                 "English": 20
             }
         }
-    },
-    "4": {
-        "Name": "MNOP",
-        "Class": "12",
-        "Section": "B",
-        "Marks": {
-            "Physics": 21,
-            "Chemistry": 24,
-            "Maths": 19,
-            "Comp Sci": 37,
-            "English": 36
-        }
     }
 }
