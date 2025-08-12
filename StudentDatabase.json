@@ -1,38 +1,200 @@
 {
     "1": {
         "Name": "XYZ",
-        "Class": "12",
-        "Section": "A",
         "Marks": {
-            "Physics": 37,
-            "Chemistry": 38,
-            "Maths": 31,
-            "Comp Sci": 28,
-            "English": 29
+            "Periodic Test 01": {
+                "Physics": 34,
+                "Chemistry": 38,
+                "Maths": 31,
+                "Comp Sci": 30,
+                "English": 31
+            },
+            "Periodic Test 02": {
+                "Physics": 60,
+                "Chemistry": 61,
+                "Maths": 64,
+                "Comp Sci": 57,
+                "English": 62
+            },
+            "Periodic Test 03": {
+                "Physics": 35,
+                "Chemistry": 37,
+                "Maths": 32,
+                "Comp Sci": 29,
+                "English": 33
+            },
+            "Periodic Test 04": {
+                "Physics": 67,
+                "Chemistry": 69,
+                "Maths": 68,
+                "Comp Sci": 59,
+                "English": 60
+            }
         }
     },
     "2": {
         "Name": "ABC",
-        "Class": "12",
-        "Section": "A",
         "Marks": {
-            "Physics": 30,
-            "Chemistry": 30,
-            "Maths": 30,
-            "Comp Sci": 30,
-            "English": 30
+            "Periodic Test 01": {
+                "Physics": 37,
+                "Chemistry": 38,
+                "Maths": 31,
+                "Comp Sci": 28,
+                "English": 29
+            },
+            "Periodic Test 02": {
+                "Physics": 72,
+                "Chemistry": 75,
+                "Maths": 79,
+                "Comp Sci": 70,
+                "English": 73
+            },
+            "Periodic Test 03": {
+                "Physics": 35,
+                "Chemistry": 36,
+                "Maths": 29,
+                "Comp Sci": 26,
+                "English": 27
+            },
+            "Periodic Test 04": {
+                "Physics": 73,
+                "Chemistry": 72,
+                "Maths": 77,
+                "Comp Sci": 72,
+                "English": 76
+            }
         }
     },
     "3": {
-        "Name": "PQR",
-        "Class": "12",
-        "Section": "A",
+        "Name": "MNK",
         "Marks": {
-            "Physics": 35,
-            "Chemistry": 35,
-            "Maths": 35,
-            "Comp Sci": 35,
-            "English": 35
+            "Periodic Test 01": {
+                "Physics": 36,
+                "Chemistry": 38,
+                "Maths": 22,
+                "Comp Sci": 30,
+                "English": 39
+            },
+            "Periodic Test 02": {
+                "Physics": 56,
+                "Chemistry": 54,
+                "Maths": 69,
+                "Comp Sci": 53,
+                "English": 75
+            },
+            "Periodic Test 03": {
+                "Physics": 37,
+                "Chemistry": 37,
+                "Maths": 23,
+                "Comp Sci": 29,
+                "English": 40
+            },
+            "Periodic Test 04": {
+                "Physics": 57,
+                "Chemistry": 53,
+                "Maths": 68,
+                "Comp Sci": 54,
+                "English": 78
+            }
+        }
+    },
+    "4": {
+        "Name": "MNOP",
+        "Marks": {
+            "Periodic Test 01": {
+                "Physics": 21,
+                "Chemistry": 25,
+                "Maths": 17,
+                "Comp Sci": 13,
+                "English": 16
+            },
+            "Periodic Test 02": {
+                "Physics": 46,
+                "Chemistry": 39,
+                "Maths": 56,
+                "Comp Sci": 45,
+                "English": 40
+            },
+            "Periodic Test 03": {
+                "Physics": 22,
+                "Chemistry": 24,
+                "Maths": 14,
+                "Comp Sci": 19,
+                "English": 19
+            },
+            "Periodic Test 04": {
+                "Physics": 49,
+                "Chemistry": 50,
+                "Maths": 39,
+                "Comp Sci": 29,
+                "English": 45
+            }
+        }
+    },
+    "5": {
+        "Name": "XXX",
+        "Marks": {
+            "Periodic Test 01": {
+                "Physics": 15,
+                "Chemistry": 16,
+                "Maths": 17,
+                "Comp Sci": 18,
+                "English": 19
+            },
+            "Periodic Test 02": {
+                "Physics": 50,
+                "Chemistry": 49,
+                "Maths": 48,
+                "Comp Sci": 47,
+                "English": 46
+            },
+            "Periodic Test 03": {
+                "Physics": 20,
+                "Chemistry": 19,
+                "Maths": 18,
+                "Comp Sci": 17,
+                "English": 16
+            },
+            "Periodic Test 04": {
+                "Physics": 40,
+                "Chemistry": 41,
+                "Maths": 42,
+                "Comp Sci": 43,
+                "English": 44
+            }
+        }
+    },
+    "6": {
+        "Name": "EFGH",
+        "Marks": {
+            "Periodic Test 01": {
+                "Physics": 20,
+                "Chemistry": 20,
+                "Maths": 20,
+                "Comp Sci": 20,
+                "English": 20
+            },
+            "Periodic Test 02": {
+                "Physics": 20,
+                "Chemistry": 20,
+                "Maths": 20,
+                "Comp Sci": 20,
+                "English": 20
+            },
+            "Periodic Test 03": {
+                "Physics": 20,
+                "Chemistry": 20,
+                "Maths": 20,
+                "Comp Sci": 20,
+                "English": 20
+            },
+            "Periodic Test 04": {
+                "Physics": 20,
+                "Chemistry": 20,
+                "Maths": 20,
+                "Comp Sci": 20,
+                "English": 20
+            }
         }
     },
     "4": {
