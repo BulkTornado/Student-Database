@@ -1,3 +1,5 @@
+# IMPORTANT: I am abandoning this. Using JSON was a big mistake, and I have realised it by now. Currently using MySQL, and will start a new project someday.
+
 # Student Database
 
 A simple Python program(or maybe not so simple) that reads the data from a json file, and presents it to the user in a readable format.
